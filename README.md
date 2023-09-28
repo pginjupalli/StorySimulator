@@ -1,2 +1,2 @@
 # StorySimulator
-An implemention of a ternary tree along with Nodes to create and play a story which is saved to play later by manipulating text files
+This project is console-based. It requires one to enter the code into seperate files and running the main method in Zork class.
